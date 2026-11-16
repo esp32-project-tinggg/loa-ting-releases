@@ -25,5 +25,7 @@
 
 ## Liên hệ
 
+- Fanpage Facebook: https://www.facebook.com/tinggg.box
+- Group Facebook: https://www.facebook.com/groups/tinggg
 - Nhóm Zalo hỏi đáp: https://zalo.me/g/cmx8rrljb8wxfl5uehfn
 - GitHub: https://github.com/esp32-project-tinggg/loa-ting-releases
