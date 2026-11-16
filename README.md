@@ -8,7 +8,7 @@
 
 **Trợ lý AI tiếng Việt · Nhạc · 44 đài FM · Khung ảnh · Giá cả · Pomodoro · Waze HUD · Báo thức · Lịch âm · Báo biến động số dư**
 
-[![Website](https://img.shields.io/badge/🌐_esp32.viennv.dev-1E2A44?style=for-the-badge)](https://esp32.viennv.dev)
+[![Website](https://img.shields.io/badge/🌐_tinggg.app-1E2A44?style=for-the-badge)](https://tinggg.app)
 [![Nhóm Zalo](https://img.shields.io/badge/💬_Nhóm_Zalo-Hỏi_đáp-0068FF?style=for-the-badge)](https://zalo.me/g/cmx8rrljb8wxfl5uehfn)
 [![Tải về](https://img.shields.io/badge/⬇️_Tải_về-Firmware_1.8.0-F5C518?style=for-the-badge)](https://github.com/esp32-project-tinggg/loa-ting-releases/releases/latest)
 [![viennv.dev](https://img.shields.io/badge/viennv.dev-1e293b?style=for-the-badge)](https://viennv.dev)
@@ -23,9 +23,9 @@
 
 ## ▶️ Video giới thiệu
 
-<a href="https://esp32.viennv.dev/#video"><img src="assets/review-poster.jpg" alt="Xem video giới thiệu Loa Ting" width="640" /></a>
+<a href="https://tinggg.app/#video"><img src="assets/review-poster.jpg" alt="Xem video giới thiệu Loa Ting" width="640" /></a>
 
-Video review gần 5 phút: vỏ in 3D, rồi từng ứng dụng trên loa. Xem tại **[esp32.viennv.dev](https://esp32.viennv.dev/#video)**.
+Video review gần 5 phút: vỏ in 3D, rồi từng ứng dụng trên loa. Xem tại **[tinggg.app](https://tinggg.app/#video)**.
 
 ## ✨ Tính năng
 
@@ -58,13 +58,13 @@ Video review gần 5 phút: vỏ in 3D, rồi từng ứng dụng trên loa. Xem
 - **Vỏ để bàn:** 98,8 × 52 × 92 mm, mặt trước ngả 20°; pin 18650 dưới đáy, công tắc nguồn; mặt trước cài 4 nẫy móc, tì lên gờ đỡ 4 cạnh, không cần vít; loa dán băng keo 3M vào khuôn trong thân, cách lưới 5 mm; 7 khe thoát nhiệt sau lưng; viền cổng sạc in rời ôm sát cổng USB-C.
 - **In 3D:** 5 chi tiết, khoảng 92 g nhựa, lưng xanh than hoặc đen, mặt trước vàng. File 3MF xếp sẵn bàn in 220 × 220.
 
-📐 **[Trang Vỏ in 3D](https://esp32.viennv.dev/case/)**: so sánh 3 kiểu vỏ, thông số, cấu tạo, lý do thiết kế và mô hình 3D của từng vỏ.
+📐 **[Trang Vỏ in 3D](https://tinggg.app/case/)**: so sánh 3 kiểu vỏ, thông số, cấu tạo, lý do thiết kế và mô hình 3D của từng vỏ.
 
-🔌 **[Nạp firmware](https://esp32.viennv.dev/flash/)**: nạp ngay trên Chrome/Edge qua cáp USB, có từng bước và phần trăm.
+🔌 **[Nạp firmware](https://tinggg.app/flash/)**: nạp ngay trên Chrome/Edge qua cáp USB, có từng bước và phần trăm.
 
-📘 **[Tài liệu](https://esp32.viennv.dev/docs/)**: tự cài máy chủ nhạc và khung ảnh Google Photos, hoặc nối loa với nguồn báo biến động số dư (qua LAN hay máy chủ riêng, kèm máy chủ mẫu Python).
+📘 **[Tài liệu](https://tinggg.app/docs/)**: tự cài máy chủ nhạc và khung ảnh Google Photos, hoặc nối loa với nguồn báo biến động số dư (qua LAN hay máy chủ riêng, kèm máy chủ mẫu Python).
 
-🧊 **[Xoay thử mô hình 3D](https://esp32.viennv.dev/3d/)** ngay trên trình duyệt: tách lớp, cắt dọc, giấu từng chi tiết.
+🧊 **[Xoay thử mô hình 3D](https://tinggg.app/3d/)** ngay trên trình duyệt: tách lớp, cắt dọc, giấu từng chi tiết.
 
 ### 🚗 Vỏ HUD cho ô tô
 
@@ -73,31 +73,31 @@ Video review gần 5 phút: vỏ in 3D, rồi từng ứng dụng trên loa. Xem
   <img src="assets/hud-phang.jpg" width="48%" alt="Vỏ HUD thân phẳng trên đế chỉnh góc" />
 </p>
 
-- **[Nghiêng 20°](https://esp32.viennv.dev/3d/hud-tilted/):** 127 × 69 × 35 mm, 3 chi tiết, khoảng 47 g; hợp kính lái 30–35°.
-- **[Thân phẳng trên đế 5 nấc](https://esp32.viennv.dev/3d/hud-flat/):** thân 127 × 63 × 20 mm, chỉnh 10–40° cho mọi góc kính; 6 chi tiết, bản lề in liền, không chốt, không vít, khoảng 130 g.
+- **[Nghiêng 20°](https://tinggg.app/3d/hud-tilted/):** 127 × 69 × 35 mm, 3 chi tiết, khoảng 47 g; hợp kính lái 30–35°.
+- **[Thân phẳng trên đế 5 nấc](https://tinggg.app/3d/hud-flat/):** thân 127 × 63 × 20 mm, chỉnh 10–40° cho mọi góc kính; 6 chi tiết, bản lề in liền, không chốt, không vít, khoảng 130 g.
 - Cả hai: màu đen, loa của bộ mạch nằm cạnh màn để đọc cảnh báo, cổng USB-C bên trái hoặc phải có viền in rời, không pin (cắm nguồn xe), miếng thép trong đáy để hít giá nam châm. Nên in PETG hoặc ASA.
 - File in vỏ HUD nghiêng (bản có loa) có trong bản phát hành; vỏ HUD phẳng: liên hệ trong nhóm Zalo.
 
 ## 📥 Tải về
 
-- **Firmware 1.8.0:** nạp ngay trên trình duyệt ở trang [Nạp firmware](https://esp32.viennv.dev/flash/), hoặc tải các file `.bin` ở trang [Releases](https://github.com/esp32-project-tinggg/loa-ting-releases/releases/latest) để nạp bằng `esptool` (lệnh có trong ghi chú bản phát hành). Loa đã cài sẽ tự báo khi có bản mới, bấm Cập nhật mới cài.
-- **File in vỏ** (3MF, STL, bản vẽ PDF): vỏ để bàn và vỏ HUD nghiêng (có loa) tải ở [trang Vỏ in 3D](https://esp32.viennv.dev/case/#tai-ve) hoặc trang Releases. Vỏ HUD phẳng: liên hệ trong [nhóm Zalo](https://zalo.me/g/cmx8rrljb8wxfl5uehfn).
+- **Firmware 1.8.0:** nạp ngay trên trình duyệt ở trang [Nạp firmware](https://tinggg.app/flash/), hoặc tải các file `.bin` ở trang [Releases](https://github.com/esp32-project-tinggg/loa-ting-releases/releases/latest) để nạp bằng `esptool` (lệnh có trong ghi chú bản phát hành). Loa đã cài sẽ tự báo khi có bản mới, bấm Cập nhật mới cài.
+- **File in vỏ** (3MF, STL, bản vẽ PDF): vỏ để bàn và vỏ HUD nghiêng (có loa) tải ở [trang Vỏ in 3D](https://tinggg.app/case/#tai-ve) hoặc trang Releases. Vỏ HUD phẳng: liên hệ trong [nhóm Zalo](https://zalo.me/g/cmx8rrljb8wxfl5uehfn).
 
 ## 🛠️ Tự làm một chiếc
 
 1. **In vỏ, chuẩn bị:** in 5 chi tiết từ file 3MF. Cần thêm mạch ES3C28P (kèm loa), một pin 18650 và một công tắc nhỏ.
-2. **Nạp firmware:** cắm mạch vào máy tính bằng USB-C rồi nạp ngay trên trình duyệt ở trang [Nạp firmware](https://esp32.viennv.dev/flash/), hoặc dùng `esptool` với các file ở trang [Releases](https://github.com/esp32-project-tinggg/loa-ting-releases/releases/latest). Cập nhật về sau vẫn giữ Wi-Fi và cài đặt.
+2. **Nạp firmware:** cắm mạch vào máy tính bằng USB-C rồi nạp ngay trên trình duyệt ở trang [Nạp firmware](https://tinggg.app/flash/), hoặc dùng `esptool` với các file ở trang [Releases](https://github.com/esp32-project-tinggg/loa-ting-releases/releases/latest). Cập nhật về sau vẫn giữ Wi-Fi và cài đặt.
 3. **Cài bằng điện thoại:** vào Wi-Fi “Xiaozhi-xxxx” của loa để chọn mạng nhà, rồi quét mã trên loa để mở trang cài đặt.
 
 ## 💬 Nhóm Zalo
 
-Hỏi đáp, khoe bản in, báo lỗi, góp ý tính năng trong nhóm **[Loa Ting - ESP32 Custom](https://zalo.me/g/cmx8rrljb8wxfl5uehfn)** trên Zalo. Trên máy tính, mở [esp32.viennv.dev](https://esp32.viennv.dev) và bấm nút “Hỏi đáp Zalo” ở góc phải dưới để quét mã QR bằng điện thoại.
+Hỏi đáp, khoe bản in, báo lỗi, góp ý tính năng trong nhóm **[Loa Ting - ESP32 Custom](https://zalo.me/g/cmx8rrljb8wxfl5uehfn)** trên Zalo. Trên máy tính, mở [tinggg.app](https://tinggg.app) và bấm nút “Hỏi đáp Zalo” ở góc phải dưới để quét mã QR bằng điện thoại.
 
 ---
 
 <div align="center">
 
-Một dự án của **[viennv.dev](https://viennv.dev)** · Trang giới thiệu: **[esp32.viennv.dev](https://esp32.viennv.dev)**
+Một dự án của **[viennv.dev](https://viennv.dev)** · Trang giới thiệu: **[tinggg.app](https://tinggg.app)**
 
 <sub>Ảnh màn hình chụp từ giao diện thật, dữ liệu giao dịch là dữ liệu mẫu. Ảnh vỏ dựng từ mô hình 3D.</sub>
 

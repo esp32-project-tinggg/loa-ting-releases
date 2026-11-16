@@ -3,105 +3,105 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
-    <loc>https://esp32.viennv.dev/</loc>
+    <loc>https://tinggg.app/</loc>
     <lastmod>2026-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://esp32.viennv.dev/assets/og-image.jpg</image:loc>
+      <image:loc>https://tinggg.app/assets/og-image.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://esp32.viennv.dev/assets/loa-ting-ca-bo.jpg</image:loc>
+      <image:loc>https://tinggg.app/assets/loa-ting-ca-bo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://esp32.viennv.dev/assets/hud-tren-xe.jpg</image:loc>
+      <image:loc>https://tinggg.app/assets/hud-tren-xe.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://esp32.viennv.dev/assets/hud-nem.jpg</image:loc>
+      <image:loc>https://tinggg.app/assets/hud-nem.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://esp32.viennv.dev/assets/hud-phang.jpg</image:loc>
+      <image:loc>https://tinggg.app/assets/hud-phang.jpg</image:loc>
     </image:image>
     <video:video>
-      <video:thumbnail_loc>https://esp32.viennv.dev/assets/review-poster.jpg</video:thumbnail_loc>
+      <video:thumbnail_loc>https://tinggg.app/assets/review-poster.jpg</video:thumbnail_loc>
       <video:title>Loa Ting: review vỏ in 3D và phần mềm 1.6</video:title>
       <video:description>Vỏ để bàn và hai vỏ HUD cho ô tô, rồi đi qua từng ứng dụng của loa: trợ lý AI, nhạc, 44 đài FM, podcast, khung ảnh, Waze HUD, báo thức, Pomodoro, giá cả, báo số dư.</video:description>
-      <video:content_loc>https://esp32.viennv.dev/assets/review.mp4?v=2</video:content_loc>
+      <video:content_loc>https://tinggg.app/assets/review.mp4?v=2</video:content_loc>
       <video:duration>370</video:duration>
       <video:publication_date>2026-11-10T21:00:00+07:00</video:publication_date>
     </video:video>
   </url>
   <url>
-    <loc>https://esp32.viennv.dev/case/</loc>
+    <loc>https://tinggg.app/case/</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://esp32.viennv.dev/assets/vo-de-ban.jpg</image:loc>
+      <image:loc>https://tinggg.app/assets/vo-de-ban.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://esp32.viennv.dev/assets/hud-nem-tach-lop.jpg</image:loc>
+      <image:loc>https://tinggg.app/assets/hud-nem-tach-lop.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://esp32.viennv.dev/assets/hud-phang-tach-lop.jpg</image:loc>
+      <image:loc>https://tinggg.app/assets/hud-phang-tach-lop.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://esp32.viennv.dev/3d/</loc>
+    <loc>https://tinggg.app/3d/</loc>
     <lastmod>2026-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://esp32.viennv.dev/3d/hud-tilted/</loc>
+    <loc>https://tinggg.app/3d/hud-tilted/</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://esp32.viennv.dev/3d/hud-flat/</loc>
+    <loc>https://tinggg.app/3d/hud-flat/</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://esp32.viennv.dev/docs/</loc>
+    <loc>https://tinggg.app/docs/</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://esp32.viennv.dev/flash/</loc>
+    <loc>https://tinggg.app/flash/</loc>
     <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://esp32.viennv.dev/about/</loc>
+    <loc>https://tinggg.app/about/</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://esp32.viennv.dev/screens/</loc>
+    <loc>https://tinggg.app/screens/</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://esp32.viennv.dev/assets/screens/all/10_home_clock.png</image:loc>
+      <image:loc>https://tinggg.app/assets/screens/all/10_home_clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://esp32.viennv.dev/assets/screens/all/13_bank_in.png</image:loc>
+      <image:loc>https://tinggg.app/assets/screens/all/13_bank_in.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://esp32.viennv.dev/assets/screens/all/25e_music_cover.png</image:loc>
+      <image:loc>https://tinggg.app/assets/screens/all/25e_music_cover.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://esp32.viennv.dev/assets/screens/all/41_hud_turn_lanes.png</image:loc>
+      <image:loc>https://tinggg.app/assets/screens/all/41_hud_turn_lanes.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://esp32.viennv.dev/order/</loc>
+    <loc>https://tinggg.app/order/</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

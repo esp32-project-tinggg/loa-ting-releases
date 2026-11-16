@@ -15,13 +15,13 @@
 
 ## Trang
 
-- [Trang chủ](https://esp32.viennv.dev/): giới thiệu, review video, ba kiểu vỏ, 17 ứng dụng, báo số dư, hỏi đáp
-- [Màn hình](https://esp32.viennv.dev/screens/): 120 ảnh màn hình thật của mọi ứng dụng trên loa, nhóm theo ứng dụng
-- [Vỏ in 3D](https://esp32.viennv.dev/case/): so sánh ba kiểu vỏ, thông số, cấu tạo, hướng dẫn in, mô hình 3D xoay được
-- [Nạp firmware](https://esp32.viennv.dev/flash/): nạp hoặc cập nhật firmware ngay trên trình duyệt, cách nhận đúng mạch ES3C28P
-- [Tài liệu](https://esp32.viennv.dev/docs/): tự cài máy chủ nhạc, khung ảnh Google Photos, báo số dư qua LAN hoặc máy chủ riêng
-- [Giới thiệu](https://esp32.viennv.dev/about/): nguyên tắc (không cần mật khẩu ngân hàng, dữ liệu nằm trên loa), ghi công, người làm
-- [Đặt hàng](https://esp32.viennv.dev/order/): đặt vỏ in sẵn hoặc loa hoàn chỉnh
+- [Trang chủ](https://tinggg.app/): giới thiệu, review video, ba kiểu vỏ, 17 ứng dụng, báo số dư, hỏi đáp
+- [Màn hình](https://tinggg.app/screens/): 120 ảnh màn hình thật của mọi ứng dụng trên loa, nhóm theo ứng dụng
+- [Vỏ in 3D](https://tinggg.app/case/): so sánh ba kiểu vỏ, thông số, cấu tạo, hướng dẫn in, mô hình 3D xoay được
+- [Nạp firmware](https://tinggg.app/flash/): nạp hoặc cập nhật firmware ngay trên trình duyệt, cách nhận đúng mạch ES3C28P
+- [Tài liệu](https://tinggg.app/docs/): tự cài máy chủ nhạc, khung ảnh Google Photos, báo số dư qua LAN hoặc máy chủ riêng
+- [Giới thiệu](https://tinggg.app/about/): nguyên tắc (không cần mật khẩu ngân hàng, dữ liệu nằm trên loa), ghi công, người làm
+- [Đặt hàng](https://tinggg.app/order/): đặt vỏ in sẵn hoặc loa hoàn chỉnh
 
 ## Liên hệ
 
