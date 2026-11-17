@@ -15,7 +15,7 @@
 <body>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
 <style>
 /* Layout: one-screen workbench, the same family as the desk-case page. A slim header, the 3D stage filling
    the rest (it turns into a night road in "Trên xe"), a control rail on the right, under the stage on phones.
@@ -34,7 +34,7 @@
   --night-top: #04070e;
   --night-mid: #0e1526;
   --night-low: #222a40;
-  --font-ui: "Be Vietnam Pro", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-ui: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
   --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
 }
 @media (prefers-color-scheme: dark) {
@@ -276,7 +276,7 @@ const hud = (() => {
     blue: '#3B82F6', minBlue: '#1E63E9', dim: '#4A525E', accent: '#4FA3FF', ink: '#111111', orange: '#FF7A45',
     track: '#2A2F37', chip: '#3A414D', endRing: '#9AA3B2', yellow: '#F5C400',
   };
-  const F = '"Be Vietnam Pro", system-ui, -apple-system, "Segoe UI", sans-serif';
+  const F = '"Inter", system-ui, -apple-system, "Segoe UI", sans-serif';
   const rnd = (a, b) => a + Math.random() * (b - a);
   const pick = a => a[Math.floor(Math.random() * a.length)];
   const clamp = (x, a, b) => Math.max(a, Math.min(b, x));
