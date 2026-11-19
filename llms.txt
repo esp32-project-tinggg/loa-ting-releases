@@ -1,23 +1,24 @@
 # Loa Ting
 
-> Loa thông minh nói tiếng Việt, chạy trên mạch LCDWIKI ES3C28P (ESP32-S3, màn cảm ứng 2,8″), do viennv.dev làm. Có trợ lý AI, nhạc theo yêu cầu, 44 đài FM, podcast, khung ảnh Google Photos, giá vàng, lịch âm, báo thức, báo biến động số dư, và thành HUD dẫn đường Waze trên kính lái ô tô khi thay vỏ. Firmware miễn phí, nạp ngay trên trình duyệt.
+> Loa thông minh nói tiếng Việt, chạy trên mạch LCDWIKI ES3C28P (ESP32-S3, màn cảm ứng 2,8″), do viennv.dev làm. Có trợ lý AI, nhạc theo yêu cầu, 44 đài FM, podcast, khung ảnh Google Photos, giá vàng, lịch âm, báo thức, báo biến động số dư. Hai bản firmware: Loa để bàn, và HUD ô tô (dẫn đường Waze trên kính lái, OBD II, áp suất lốp TPMS). Firmware miễn phí, nạp ngay trên trình duyệt.
 
 ## Dữ kiện chính
 
 - Phần cứng: mạch LCDWIKI ES3C28P bản có cảm ứng điện dung (chip ESP32-S3 N16R8, flash 16 MB, màn 2,8″ 240 × 320). Bản ES3N28P không cảm ứng không dùng được.
-- Firmware: miễn phí, bản mới nhất 1.8.0. Nạp bằng Chrome hoặc Edge trên máy tính qua cáp USB-C, không cần cài phần mềm. Bản phát hành: https://github.com/esp32-project-tinggg/loa-ting-releases/releases/latest
+- Hai bản firmware từ một mã nguồn: Loa để bàn (17 ứng dụng, có Hẹn giờ, Pomodoro, Giá cả, QR Wi-Fi, Ban đêm, Thông báo điện thoại) và HUD ô tô (14 ứng dụng, có Dẫn đường, OBD II qua đầu đọc ELM327 Bluetooth, TPMS qua cảm biến lốp Bluetooth). Đổi bản bằng chế độ Cập nhật vẫn giữ Wi-Fi và cài đặt. Nhạc, FM, Podcast có hẹn giờ tắt.
+- Firmware: miễn phí, bản mới nhất 1.9.1. Nạp bằng Chrome hoặc Edge trên máy tính qua cáp USB-C, không cần cài phần mềm. Bản phát hành: https://github.com/esp32-project-tinggg/loa-ting-releases/releases/latest
 - Dựa trên Xiaozhi ESP32 (mã nguồn mở), viết lại giao diện tiếng Việt. Giao diện và giọng đọc có tiếng Việt và tiếng Anh.
 - Trợ lý AI mặc định dùng máy chủ xiaozhi.me, đổi được sang máy chủ Xiaozhi riêng.
 - Báo số dư: loa không đăng nhập ngân hàng. Một app chuyển tiếp thông báo (Android, iPhone) gửi thông báo biến động số dư từ điện thoại sang loa, qua Wi-Fi trong nhà hoặc qua máy chủ.
 - Vỏ in 3D: vỏ để bàn (mặt trước vàng, lưng xanh than hoặc đen), vỏ HUD nghiêng 20° và vỏ HUD thân phẳng trên đế chỉnh 5 nấc. File STL, 3MF trong bản phát hành.
 - Cài đặt loa bằng trình duyệt trên điện thoại, không cần app riêng.
-- Có bán vỏ in sẵn và loa hoàn chỉnh đã ráp, nạp sẵn firmware (9 phiên bản), xác nhận đơn qua Zalo, giao tận nơi.
+- Có bán vỏ in sẵn và loa hoàn chỉnh đã ráp, nạp sẵn đúng bản firmware theo vỏ (9 phiên bản), xác nhận đơn qua Zalo, giao tận nơi.
 
 ## Trang
 
-- [Trang chủ](https://tinggg.app/): giới thiệu, review video, ba kiểu vỏ, 17 ứng dụng, báo số dư, hỏi đáp
-- [Màn hình](https://tinggg.app/screens/): 120 ảnh màn hình thật của mọi ứng dụng trên loa, nhóm theo ứng dụng
-- [Vỏ in 3D](https://tinggg.app/case/): so sánh ba kiểu vỏ, thông số, cấu tạo, hướng dẫn in, mô hình 3D xoay được
+- [Trang chủ](https://tinggg.app/): giới thiệu, review video, bốn kiểu vỏ, 20 ứng dụng của hai bản firmware, báo số dư, hỏi đáp
+- [Màn hình](https://tinggg.app/screens/): 147 ảnh màn hình thật của mọi ứng dụng trên loa, nhóm theo ứng dụng
+- [Vỏ in 3D](https://tinggg.app/case/): so sánh bốn kiểu vỏ (để bàn, đế dựng, hai vỏ HUD), thông số, cấu tạo, hướng dẫn in, mô hình 3D xoay được
 - [Nạp firmware](https://tinggg.app/flash/): nạp hoặc cập nhật firmware ngay trên trình duyệt, cách nhận đúng mạch ES3C28P
 - [Tài liệu](https://tinggg.app/docs/): tự cài máy chủ nhạc, khung ảnh Google Photos, báo số dư qua LAN hoặc máy chủ riêng
 - [Giới thiệu](https://tinggg.app/about/): nguyên tắc (không cần mật khẩu ngân hàng, dữ liệu nằm trên loa), ghi công, người làm

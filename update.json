@@ -1,9 +1,9 @@
 {
-  "version": "1.8.0",
-  "url": "https://github.com/small-project-mmo/loa-ting-releases/releases/download/v1.8.0/loa-ting-1.8.0.bin",
-  "size": 3895008,
+  "version": "1.9.1",
+  "url": "https://github.com/small-project-mmo/loa-ting-releases/releases/download/v1.9.1/loa-ting-1.9.1.bin",
+  "size": 3230352,
   "notes": {
-    "vi": "Hết rớt luồng podcast, nhạc giữa chừng. Thêm kênh podcast Xe & Đời sống.",
-    "en": "No more podcast and music streams dropping mid-play. New podcast channel: Cars & Life."
+    "vi": "Loa dùng làm HUD ô tô: đừng cập nhật, nạp bản HUD ở tinggg.app/flash. Mới: hẹn giờ tắt nhạc, thông báo điện thoại.",
+    "en": "Car HUD speaker: don't update, flash the HUD build at tinggg.app/flash. New: sleep timer, phone notifications."
   }
 }

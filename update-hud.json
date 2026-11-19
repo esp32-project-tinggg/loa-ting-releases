@@ -1,0 +1,9 @@
+{
+  "version": "1.9.1",
+  "url": "https://github.com/esp32-project-tinggg/loa-ting-releases/releases/download/v1.9.1/loa-ting-hud-1.9.1.bin",
+  "size": 3272480,
+  "notes": {
+    "vi": "Bản HUD ô tô: dẫn đường Waze, Vietmap, OBD II, áp suất lốp, thông báo điện thoại.",
+    "en": "Car HUD build: Waze and Vietmap navigation, OBD II, tyre pressure, phone notifications."
+  }
+}
