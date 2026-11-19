@@ -1,9 +1,9 @@
 {
-  "version": "1.9.1",
-  "url": "https://github.com/esp32-project-tinggg/loa-ting-releases/releases/download/v1.9.1/loa-ting-hud-1.9.1.bin",
-  "size": 3272480,
+  "version": "1.9.2",
+  "url": "https://github.com/esp32-project-tinggg/loa-ting-releases/releases/download/v1.9.2/loa-ting-hud-1.9.2.bin",
+  "size": 3274864,
   "notes": {
-    "vi": "Bản HUD ô tô: dẫn đường Waze, Vietmap, OBD II, áp suất lốp, thông báo điện thoại.",
-    "en": "Car HUD build: Waze and Vietmap navigation, OBD II, tyre pressure, phone notifications."
+    "vi": "Giữ 1 giây trên màn Dẫn đường để mở Cài đặt nhanh: phản chiếu, tiếng bíp, giọng đọc. Tên mới: Loa Ting HUD.",
+    "en": "Hold the navigation screen for a second for quick settings: mirror, beeps, voice. New name: Loa Ting HUD."
   }
 }
