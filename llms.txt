@@ -12,7 +12,7 @@
 - Báo số dư: loa không đăng nhập ngân hàng. Một app chuyển tiếp thông báo (Android, iPhone) gửi thông báo biến động số dư từ điện thoại sang loa, qua Wi-Fi trong nhà hoặc qua máy chủ.
 - Vỏ in 3D: vỏ để bàn (mặt trước vàng, lưng xanh than hoặc đen), vỏ HUD nghiêng 20° và vỏ HUD thân phẳng trên đế chỉnh 5 nấc. File STL, 3MF trong bản phát hành.
 - Cài đặt loa bằng trình duyệt trên điện thoại, không cần app riêng.
-- Có bán vỏ in sẵn và loa hoàn chỉnh đã ráp, nạp sẵn đúng bản firmware theo vỏ (9 phiên bản), xác nhận đơn qua Zalo, giao tận nơi.
+- Có bán vỏ in sẵn và loa đã hoàn thiện đã ráp, nạp sẵn đúng bản firmware theo vỏ (10 phiên bản), xác nhận đơn qua Zalo, giao tận nơi.
 
 ## Trang
 
@@ -20,9 +20,10 @@
 - [Màn hình](https://tinggg.app/screens/): 147 ảnh màn hình thật của mọi ứng dụng trên loa, nhóm theo ứng dụng
 - [Vỏ in 3D](https://tinggg.app/case/): so sánh bốn kiểu vỏ (để bàn, đế dựng, hai vỏ HUD), thông số, cấu tạo, hướng dẫn in, mô hình 3D xoay được
 - [Nạp firmware](https://tinggg.app/flash/): nạp hoặc cập nhật firmware ngay trên trình duyệt, cách nhận đúng mạch ES3C28P
+- [App Ting](https://tinggg.app/app/): app Android và iPhone (sắp có) chuyển thông báo biến động số dư của app ngân hàng sang loa
 - [Tài liệu](https://tinggg.app/docs/): tự cài máy chủ nhạc, khung ảnh Google Photos, báo số dư qua LAN hoặc máy chủ riêng
 - [Giới thiệu](https://tinggg.app/about/): nguyên tắc (không cần mật khẩu ngân hàng, dữ liệu nằm trên loa), ghi công, người làm
-- [Đặt hàng](https://tinggg.app/order/): đặt vỏ in sẵn hoặc loa hoàn chỉnh
+- [Đặt hàng](https://tinggg.app/order/): đặt vỏ in sẵn hoặc loa đã hoàn thiện
 
 ## Liên hệ
 
