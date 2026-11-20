@@ -1,9 +1,9 @@
 {
-  "version": "1.9.2",
-  "url": "https://github.com/esp32-project-tinggg/loa-ting-releases/releases/download/v1.9.2/loa-ting-hud-1.9.2.bin",
-  "size": 3274864,
+  "version": "1.9.3",
+  "url": "https://github.com/esp32-project-tinggg/loa-ting-releases/releases/download/v1.9.3/loa-ting-hud-1.9.3.bin",
+  "size": 3277120,
   "notes": {
-    "vi": "Giữ 1 giây trên màn Dẫn đường để mở Cài đặt nhanh: phản chiếu, tiếng bíp, giọng đọc. Tên mới: Loa Ting HUD.",
-    "en": "Hold the navigation screen for a second for quick settings: mirror, beeps, voice. New name: Loa Ting HUD."
+    "vi": "OBD: Xoá mã báo rõ lý do khi xe không cho xoá (đa số xe cần tắt máy, bật khoá ON). Mất kết nối máy chủ trợ lý: tự nối lại sau 5–30 giây.",
+    "en": "OBD: Clear codes says why when the car refuses (most cars need the engine off, ignition ON). Lost the assistant's server: reconnects every 5–30 s."
   }
 }
