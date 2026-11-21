@@ -21,7 +21,7 @@
 - [Màn hình](https://tinggg.app/screens/): 148 ảnh màn hình thật của mọi ứng dụng trên loa, nhóm theo ứng dụng
 - [Vỏ in 3D](https://tinggg.app/case/): so sánh bốn kiểu vỏ (để bàn, đế dựng, hai vỏ HUD), thông số, cấu tạo, hướng dẫn in, mô hình 3D xoay được
 - [Nạp firmware](https://tinggg.app/flash/): nạp hoặc cập nhật firmware ngay trên trình duyệt: chọn mạch (LCDWIKI ES3C28P / ES3C35P / ES3C40P, mạch vàng CYD), ảnh và dấu hiệu nhận đúng từng mạch, hoặc nạp file .bin riêng
-- [App Ting](https://tinggg.app/app/): app Android và iPhone (sắp có) chuyển thông báo biến động số dư của app ngân hàng sang loa
+- [App Ting](https://tinggg.app/app/): app iPhone (iOS 27+, tệp .ipa cài bằng Sideloadly / AltStore) và Android (sắp có) chuyển thông báo biến động số dư của app ngân hàng sang loa
 - [Tài liệu](https://tinggg.app/docs/): tự cài máy chủ nhạc, khung ảnh Google Photos, báo số dư qua LAN hoặc máy chủ riêng
 - [Giới thiệu](https://tinggg.app/about/): nguyên tắc (không cần mật khẩu ngân hàng, dữ liệu nằm trên loa), ghi công, người làm
 - [Đặt hàng](https://tinggg.app/order/): đặt vỏ in sẵn hoặc loa đã hoàn thiện
