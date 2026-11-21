@@ -55,6 +55,7 @@ Video review gần 5 phút: vỏ in 3D, rồi từng ứng dụng trên loa. Xem
 ## 🧰 Phần cứng
 
 - **Mạch LCDWIKI ES3C28P:** ESP32-S3, 16 MB flash, 8 MB PSRAM, Wi-Fi; màn IPS 2,8″ cảm ứng 320 × 240; codec ES8311, micro và loa đi kèm; khe microSD, đèn LED màu, USB-C sạc pin.
+- **Sắp có (chưa phát hành, chưa thử trên mạch thật):** LCDWIKI ES3C35P (3,5″) và ES3C40P (4,0″) chạy bản Loa Ting đầy đủ; mạch vàng CYD ESP32-2432S028 (2,8″) và ESP32-3248S035R / C (3,5″) chạy bản Loa Ting Lite (báo chuyển khoản, nhạc, FM, báo thức, HUD ô tô; không mic nên không có trợ lý giọng nói). Các mạch này chưa có vỏ in 3D. Xem ở trang [Nạp firmware](https://tinggg.app/flash/).
 - **Vỏ để bàn:** 98,8 × 52 × 92 mm, mặt trước ngả 20°; pin 18650 dưới đáy, công tắc nguồn; mặt trước cài 4 nẫy móc, tì lên gờ đỡ 4 cạnh, không cần vít; loa dán băng keo 3M vào khuôn trong thân, cách lưới 5 mm; 7 khe thoát nhiệt sau lưng; viền cổng sạc in rời ôm sát cổng USB-C.
 - **In 3D:** 5 chi tiết, khoảng 92 g nhựa, lưng xanh than hoặc đen, mặt trước vàng. File 3MF xếp sẵn bàn in 220 × 220.
 
@@ -85,9 +86,9 @@ Video review gần 5 phút: vỏ in 3D, rồi từng ứng dụng trên loa. Xem
 
 ## 🛠️ Tự làm một chiếc
 
-1. **In vỏ, chuẩn bị:** in 5 chi tiết từ file 3MF. Cần thêm mạch ES3C28P (kèm loa), một pin 18650 và một công tắc nhỏ.
-2. **Nạp firmware:** cắm mạch vào máy tính bằng USB-C rồi nạp ngay trên trình duyệt ở trang [Nạp firmware](https://tinggg.app/flash/), hoặc dùng `esptool` với các file ở trang [Releases](https://github.com/esp32-project-tinggg/loa-ting-releases/releases/latest). Cập nhật về sau vẫn giữ Wi-Fi và cài đặt.
-3. **Cài bằng điện thoại:** vào Wi-Fi “Xiaozhi-xxxx” của loa để chọn mạng nhà, rồi quét mã trên loa để mở trang cài đặt.
+1. **In vỏ, chuẩn bị:** in 5 chi tiết từ file 3MF. Cần thêm mạch ES3C28P (kèm loa; vỏ chỉ vừa mạch này), một pin 18650 và một công tắc nhỏ.
+2. **Nạp firmware:** cắm mạch vào máy tính bằng cáp USB rồi nạp ngay trên trình duyệt ở trang [Nạp firmware](https://tinggg.app/flash/), hoặc dùng `esptool` với các file ở trang [Releases](https://github.com/esp32-project-tinggg/loa-ting-releases/releases/latest). Cập nhật về sau vẫn giữ Wi-Fi và cài đặt.
+3. **Cài bằng điện thoại:** vào Wi-Fi “LoaTing-xxxx” của loa (bản HUD: “LoaTingHUD-xxxx”; loa bản 1.9.1 trở về trước: “Xiaozhi-xxxx”) để chọn mạng nhà, rồi quét mã trên loa để mở trang cài đặt.
 
 ## 💬 Nhóm Zalo
 

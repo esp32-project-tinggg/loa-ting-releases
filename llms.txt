@@ -4,9 +4,10 @@
 
 ## Dữ kiện chính
 
-- Phần cứng: mạch LCDWIKI ES3C28P bản có cảm ứng điện dung (chip ESP32-S3 N16R8, flash 16 MB, màn 2,8″ 240 × 320). Bản ES3N28P không cảm ứng không dùng được.
+- Phần cứng: mạch LCDWIKI ES3C28P bản có cảm ứng điện dung (chip ESP32-S3 N16R8, flash 16 MB, màn 2,8″ 240 × 320). Bản ES3N28P không cảm ứng không dùng được. Vỏ in 3D chỉ vẽ cho mạch này.
+- Sắp có (firmware đã có, chưa phát hành, chưa thử trên mạch thật): LCDWIKI ES3C35P (3,5″) và ES3C40P (4,0″) chạy bản Loa Ting đầy đủ; mạch vàng CYD ESP32-2432S028 (2,8″), ESP32-3248S035R / 3248S035C (3,5″) chạy bản Loa Ting Lite: ESP32 thường, không mic, có báo chuyển khoản, nhạc, FM, báo thức, HUD ô tô (Waze, OBD II, TPMS), không có trợ lý giọng nói, podcast, tự cập nhật. Các mạch này chưa có vỏ in 3D.
 - Hai bản firmware từ một mã nguồn: Loa để bàn (17 ứng dụng, có Hẹn giờ, Pomodoro, Giá cả, QR Wi-Fi, Ban đêm, Thông báo điện thoại) và HUD ô tô (14 ứng dụng, có Dẫn đường, OBD II qua đầu đọc ELM327 Bluetooth, TPMS qua cảm biến lốp Bluetooth). Đổi bản bằng chế độ Cập nhật vẫn giữ Wi-Fi và cài đặt. Nhạc, FM, Podcast có hẹn giờ tắt.
-- Firmware: miễn phí, bản mới nhất 1.9.3. Nạp bằng Chrome hoặc Edge trên máy tính qua cáp USB-C, không cần cài phần mềm. Bản phát hành: https://github.com/esp32-project-tinggg/loa-ting-releases/releases/latest
+- Firmware: miễn phí, bản mới nhất 1.9.3. Nạp bằng Chrome hoặc Edge trên máy tính qua cáp USB, không cần cài phần mềm; trang nạp cũng nhận file .bin riêng cho mạch ESP32 bất kỳ. Bản phát hành: https://github.com/esp32-project-tinggg/loa-ting-releases/releases/latest
 - Dựa trên Xiaozhi ESP32 (mã nguồn mở), viết lại giao diện tiếng Việt. Giao diện và giọng đọc có tiếng Việt và tiếng Anh.
 - Trợ lý AI mặc định dùng máy chủ xiaozhi.me, đổi được sang máy chủ Xiaozhi riêng.
 - Báo số dư: loa không đăng nhập ngân hàng. Một app chuyển tiếp thông báo (Android, iPhone) gửi thông báo biến động số dư từ điện thoại sang loa, qua Wi-Fi trong nhà hoặc qua máy chủ.
@@ -19,7 +20,7 @@
 - [Trang chủ](https://tinggg.app/): giới thiệu, review video, bốn kiểu vỏ, 20 ứng dụng của hai bản firmware, báo số dư, hỏi đáp
 - [Màn hình](https://tinggg.app/screens/): 148 ảnh màn hình thật của mọi ứng dụng trên loa, nhóm theo ứng dụng
 - [Vỏ in 3D](https://tinggg.app/case/): so sánh bốn kiểu vỏ (để bàn, đế dựng, hai vỏ HUD), thông số, cấu tạo, hướng dẫn in, mô hình 3D xoay được
-- [Nạp firmware](https://tinggg.app/flash/): nạp hoặc cập nhật firmware ngay trên trình duyệt, cách nhận đúng mạch ES3C28P
+- [Nạp firmware](https://tinggg.app/flash/): nạp hoặc cập nhật firmware ngay trên trình duyệt: chọn mạch (LCDWIKI ES3C28P / ES3C35P / ES3C40P, mạch vàng CYD), ảnh và dấu hiệu nhận đúng từng mạch, hoặc nạp file .bin riêng
 - [App Ting](https://tinggg.app/app/): app Android và iPhone (sắp có) chuyển thông báo biến động số dư của app ngân hàng sang loa
 - [Tài liệu](https://tinggg.app/docs/): tự cài máy chủ nhạc, khung ảnh Google Photos, báo số dư qua LAN hoặc máy chủ riêng
 - [Giới thiệu](https://tinggg.app/about/): nguyên tắc (không cần mật khẩu ngân hàng, dữ liệu nằm trên loa), ghi công, người làm
