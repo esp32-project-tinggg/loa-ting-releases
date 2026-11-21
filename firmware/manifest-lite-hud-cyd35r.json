@@ -1,0 +1,34 @@
+{
+  "name": "Loa Ting Lite HUD",
+  "family": "lite",
+  "variant": "hud",
+  "version": "1.9.3",
+  "board": "cyd35r",
+  "screen": "3.5in",
+  "available": true,
+  "chip": "ESP32",
+  "flash_size": "4MB",
+  "parts": [
+    {
+      "file": "1.9.3-lite-hud-cyd35r/bootloader.bin",
+      "address": "0x1000",
+      "size": 26176,
+      "sha256": "6edd9cbb7464a95fc83d30a1c44980865e04de4c0130719ef83f5be91af7ed23",
+      "update": false
+    },
+    {
+      "file": "1.9.3-lite-hud-cyd35r/partition-table.bin",
+      "address": "0x8000",
+      "size": 3072,
+      "sha256": "c9a826e85500d14d1854ce78e47452d4614a1be371bbd056278d2cb3398fbbfd",
+      "update": false
+    },
+    {
+      "file": "1.9.3-lite-hud-cyd35r/app.bin",
+      "address": "0x10000",
+      "size": 2039952,
+      "sha256": "7b0c24be09bd4bdee2603b8ef4a5b2fd33c86aa5fdc3e6f774f59c71cd2647cb",
+      "update": true
+    }
+  ]
+}

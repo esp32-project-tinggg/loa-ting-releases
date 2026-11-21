@@ -1,0 +1,34 @@
+{
+  "name": "Loa Ting Lite",
+  "family": "lite",
+  "variant": "desk",
+  "version": "1.9.3",
+  "board": "cyd28",
+  "screen": "2.8in",
+  "available": true,
+  "chip": "ESP32",
+  "flash_size": "4MB",
+  "parts": [
+    {
+      "file": "1.9.3-lite-cyd28/bootloader.bin",
+      "address": "0x1000",
+      "size": 26176,
+      "sha256": "df68e1e118e4b191ba39743872f3a7af50a6a9f65595be1512b2147d3d8d9856",
+      "update": false
+    },
+    {
+      "file": "1.9.3-lite-cyd28/partition-table.bin",
+      "address": "0x8000",
+      "size": 3072,
+      "sha256": "c9a826e85500d14d1854ce78e47452d4614a1be371bbd056278d2cb3398fbbfd",
+      "update": false
+    },
+    {
+      "file": "1.9.3-lite-cyd28/app.bin",
+      "address": "0x10000",
+      "size": 2075328,
+      "sha256": "161e6aa061845c46420683ae8bb96530c7464168b14a69fac50d0b935f896fae",
+      "update": true
+    }
+  ]
+}
