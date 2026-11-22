@@ -23,12 +23,12 @@
       <image:loc>https://tinggg.app/assets/hud-phang.jpg</image:loc>
     </image:image>
     <video:video>
-      <video:thumbnail_loc>https://tinggg.app/assets/review-poster.jpg</video:thumbnail_loc>
-      <video:title>Loa Ting: review vỏ in 3D và phần mềm 1.6</video:title>
-      <video:description>Vỏ để bàn và hai vỏ HUD cho ô tô, rồi đi qua từng ứng dụng của loa: trợ lý AI, nhạc, 44 đài FM, podcast, khung ảnh, Waze HUD, báo thức, Pomodoro, giá cả, báo số dư.</video:description>
-      <video:content_loc>https://tinggg.app/assets/review.mp4?v=2</video:content_loc>
-      <video:duration>370</video:duration>
-      <video:publication_date>2026-11-10T21:00:00+07:00</video:publication_date>
+      <video:thumbnail_loc>https://tinggg.app/assets/intro-poster.jpg</video:thumbnail_loc>
+      <video:title>Loa Ting trong 3 phút: vỏ, phần mềm, ô tô, App Ting</video:title>
+      <video:description>Bốn kiểu vỏ in 3D, 20 ứng dụng của firmware để bàn và HUD ô tô (trợ lý, nhạc, FM, podcast, dẫn đường, OBD II, áp suất lốp), báo số dư với App Ting cho Android, iPhone và web Ting.</video:description>
+      <video:content_loc>https://tinggg.app/assets/intro.mp4?v=1</video:content_loc>
+      <video:duration>180</video:duration>
+      <video:publication_date>2026-11-22T21:00:00+07:00</video:publication_date>
     </video:video>
   </url>
   <url>

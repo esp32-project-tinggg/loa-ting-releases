@@ -23,9 +23,9 @@
 
 ## ▶️ Video giới thiệu
 
-<a href="https://tinggg.app/#video"><img src="assets/review-poster.jpg" alt="Xem video giới thiệu Loa Ting" width="640" /></a>
+<a href="https://tinggg.app/#video"><img src="assets/intro-poster.jpg" alt="Xem video giới thiệu Loa Ting" width="640" /></a>
 
-Video review gần 5 phút: vỏ in 3D, rồi từng ứng dụng trên loa. Xem tại **[tinggg.app](https://tinggg.app/#video)**.
+Video 3 phút: bốn kiểu vỏ in 3D, phần mềm trên loa, HUD ô tô, báo biến động số dư với App Ting trên Android, iPhone và web. Xem tại **[tinggg.app](https://tinggg.app/#video)**.
 
 ## ✨ Tính năng
 
