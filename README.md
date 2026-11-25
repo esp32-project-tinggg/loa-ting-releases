@@ -6,11 +6,11 @@
 
 ### Loa thông minh để bàn, vỏ in 3D
 
-**Trợ lý AI tiếng Việt · Nhạc · 44 đài FM · Khung ảnh · Giá cả · Pomodoro · Waze HUD · Báo thức · Lịch âm · Báo biến động số dư**
+**Trợ lý AI tiếng Việt · Nhạc · YouTube và TV · Hơn 40 đài FM · Khung ảnh · Giá cả · Pomodoro · Waze HUD · Báo thức · Lịch âm · Báo biến động số dư**
 
 [![Website](https://img.shields.io/badge/🌐_tinggg.app-1E2A44?style=for-the-badge)](https://tinggg.app)
 [![Nhóm Zalo](https://img.shields.io/badge/💬_Nhóm_Zalo-Hỏi_đáp-0068FF?style=for-the-badge)](https://zalo.me/g/cmx8rrljb8wxfl5uehfn)
-[![Tải về](https://img.shields.io/badge/⬇️_Tải_về-Firmware_1.8.0-F5C518?style=for-the-badge)](https://github.com/esp32-project-tinggg/loa-ting-releases/releases/latest)
+[![Tải về](https://img.shields.io/badge/⬇️_Tải_về-Firmware_1.9.3-F5C518?style=for-the-badge)](https://github.com/esp32-project-tinggg/loa-ting-releases/releases/latest)
 [![viennv.dev](https://img.shields.io/badge/viennv.dev-1e293b?style=for-the-badge)](https://viennv.dev)
 
 </div>
@@ -33,17 +33,19 @@ Video 3 phút: bốn kiểu vỏ in 3D, phần mềm trên loa, HUD ô tô, báo
 | --- | --- |
 | 🤖 **Trợ lý AI “Hey Ivy”** | Gọi “Hey Ivy” rồi nói tiếng Việt tự nhiên: hỏi thời tiết, mở nhạc, mở đài, đặt báo thức, hẹn giờ. Chữ hiện ngay trên màn. |
 | 🎵 **Nhạc theo yêu cầu** | Nói tên bài, loa tự tìm trên Zing MP3 hoặc YouTube rồi phát, có ảnh bìa và sóng nhạc. Dùng ngay với máy chủ nhạc cộng đồng, không phải tự cài. |
-| 📻 **44 đài phát thanh** | VOV1 tới VOV5, VOV Giao thông, VOH, Đài Hà Nội và đài của hơn 20 tỉnh, kèm tần số. Gắn sao đài yêu thích, mở đài bằng giọng nói. |
+| 📺 **YouTube và TV** | Bản để bàn: tìm video YouTube hoặc chọn chủ đề có sẵn, xem toàn màn kèm tiếng; kênh VTV, HTV và đài tỉnh phát trực tiếp. Mở bằng giọng nói: “mở YouTube nấu ăn”, “mở VTV3”. |
+| 📻 **Hơn 40 đài phát thanh** | VOV1 tới VOV5, VOV Giao thông, VOH, Đài Hà Nội và đài của hơn 20 tỉnh, kèm tần số. Tìm đài theo tên, tỉnh hay tần số, gắn sao đài yêu thích, mở đài bằng giọng nói. |
 | 🖼️ **Khung ảnh** | Lúc rảnh, loa chiếu ảnh từ album Google Photos bạn chọn, kèm giờ và thời tiết. |
-| 🚗 **Waze HUD** | Đặt trên xe: hướng rẽ, làn đường, tốc độ, biển giới hạn và cảnh báo camera, nhận từ Waze Mod trên điện thoại qua Wi-Fi hoặc Bluetooth. |
+| 🚗 **Waze HUD** | Đặt trên xe (bản firmware HUD ô tô): hướng rẽ, làn đường, tốc độ, biển giới hạn và cảnh báo camera, nhận từ Waze Mod trên điện thoại qua Wi-Fi hoặc Bluetooth. Trời tối màn hình tự giảm sáng. |
+| 🔧 **OBD II, áp suất lốp, khoảng cách xe trước** | Bản HUD ô tô đọc số liệu và lỗi xe qua đầu đọc ELM327 Bluetooth, áp suất từng lốp từ cảm biến van Bluetooth, và khoảng cách tới xe phía trước từ app xADAS Pro trên Android (quá gần thì báo đỏ, kêu bíp). |
 | ⏰ **Báo thức, đếm ngược** | Đặt bằng tay hoặc bằng giọng nói, lặp theo thứ, 10 âm báo có sẵn. |
 | 🍅 **Pomodoro** | 25 phút tập trung, 5 phút nghỉ, nghỉ dài sau 4 lượt; vẫn chạy khi đóng ứng dụng. |
 | 💰 **Giá cả** | Giá vàng, xăng dầu và tỷ giá ngoại tệ, tự cập nhật mỗi giờ. |
 | 🧮 **Máy tính, QR Wi-Fi** | Máy tính bỏ túi trên màn cảm ứng; mã QR cho khách quét là vào Wi-Fi. |
-| 🌤️ **Đồng hồ, thời tiết, lịch âm** | Giờ to, chất lượng không khí, dự báo 4 ngày cho nơi bạn ở (loa tự biết theo mạng); lịch tháng có ngày âm, tiết khí, giờ tốt. |
+| 🌤️ **Đồng hồ, thời tiết, lịch âm** | Giờ to, chất lượng không khí, dự báo 4 ngày cho nơi bạn ở (loa tự biết theo mạng, hoặc gõ tên nơi ở trên trang cài đặt); lịch tháng có ngày âm, tiết khí, giờ tốt. |
 | 🔋 **Pin trên mọi màn hình** | % pin ở góc mọi màn, xanh có tia sét khi sạc, đỏ khi dưới 20%; cắm sạc là hiện thẻ “Đang sạc”. |
 | 🌙 **Ban đêm** | Màn hình tự dịu, chỉ còn đồng hồ to; thông báo được đọc thật nhỏ. |
-| 💸 **Báo biến động số dư** | “Ting” rồi đọc số tiền vừa nhận, có mã VietQR và lịch sử giao dịch. |
+| 💸 **Báo biến động số dư** | “Ting” rồi đọc số tiền vừa nhận, linh vật Ting nhảy lên giữa mưa tiền xu, có mã VietQR và lịch sử giao dịch. |
 | 📱 **Cài bằng điện thoại** | Quét mã trên loa để mở trang cài đặt. Không cần cài app. |
 
 <p align="center">
@@ -81,7 +83,7 @@ Video 3 phút: bốn kiểu vỏ in 3D, phần mềm trên loa, HUD ô tô, báo
 
 ## 📥 Tải về
 
-- **Firmware 1.8.0:** nạp ngay trên trình duyệt ở trang [Nạp firmware](https://tinggg.app/flash/), hoặc tải các file `.bin` ở trang [Releases](https://github.com/esp32-project-tinggg/loa-ting-releases/releases/latest) để nạp bằng `esptool` (lệnh có trong ghi chú bản phát hành). Loa đã cài sẽ tự báo khi có bản mới, bấm Cập nhật mới cài.
+- **Firmware 1.9.3:** nạp ngay trên trình duyệt ở trang [Nạp firmware](https://tinggg.app/flash/), hoặc tải các file `.bin` ở trang [Releases](https://github.com/esp32-project-tinggg/loa-ting-releases/releases/latest) để nạp bằng `esptool` (lệnh có trong ghi chú bản phát hành). Loa đã cài sẽ tự báo khi có bản mới, bấm Cập nhật mới cài.
 - **File in vỏ** (3MF, STL, bản vẽ PDF): vỏ để bàn và vỏ HUD nghiêng (có loa) tải ở [trang Vỏ in 3D](https://tinggg.app/case/#tai-ve) hoặc trang Releases. Vỏ HUD phẳng: liên hệ trong [nhóm Zalo](https://zalo.me/g/cmx8rrljb8wxfl5uehfn).
 
 ## 🛠️ Tự làm một chiếc
