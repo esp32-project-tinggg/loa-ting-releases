@@ -26,8 +26,8 @@
     {
       "file": "1.0.0-lite-cyd28/app.bin",
       "address": "0x10000",
-      "size": 2120688,
-      "sha256": "d42fd894544f905c91562b63b9c720a2bfa7063e8e3dba5f12194d46c71aeb4c",
+      "size": 2121328,
+      "sha256": "1737f403aa2ebf753ff9d117080aa5518b87cb354e9413572bea9e3e894af9e3",
       "update": true
     }
   ]
