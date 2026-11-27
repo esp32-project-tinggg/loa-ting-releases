@@ -26,8 +26,8 @@
     {
       "file": "1.0.0-lite-hud-cyd28/app.bin",
       "address": "0x10000",
-      "size": 2054720,
-      "sha256": "cc277f9d92c404d0089064f6811c41dd223d0b8c7512d724c53b2095647dba10",
+      "size": 2066656,
+      "sha256": "1c17ff446646072093d81730eaf72eff4e315fc2841f4804392038128aee55da",
       "update": true
     }
   ]
