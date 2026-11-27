@@ -1371,6 +1371,9 @@ async function sha256hex(buf) {
 }
 async function fetchPart(p, onBytes) {
   const url = new URL(p.file, manifestBase);
+  // Cloudflare giữ .bin 4 giờ ở biên (no-store chỉ bỏ cache trình duyệt): đăng lại cùng tên file thì manifest mới đi
+  // với file cũ, lệch SHA. Mỗi nội dung một URL riêng theo SHA của nó (27/11/2026)
+  if (p.sha256) url.searchParams.set("v", p.sha256.slice(0, 16));
   const r = await fetch(url, { cache: "no-store" });
   if (!r.ok) throw new FlashError("download", `Không tải được ${p.file} (HTTP ${r.status}).`);
   const reader = r.body.getReader();
