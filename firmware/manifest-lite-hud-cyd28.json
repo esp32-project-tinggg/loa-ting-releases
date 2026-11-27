@@ -12,8 +12,8 @@
     {
       "file": "1.0.0-lite-hud-cyd28/bootloader.bin",
       "address": "0x1000",
-      "size": 26176,
-      "sha256": "a7b905cb9ba34991c7d4a7c84f31e292ed7210b52e230c78ef3472fc42d73e1f",
+      "size": 18336,
+      "sha256": "600b34b7fb742c5e930515596c1b805deb4f80eb3f113f4e07da726d5e3eea04",
       "update": false
     },
     {
@@ -26,8 +26,8 @@
     {
       "file": "1.0.0-lite-hud-cyd28/app.bin",
       "address": "0x10000",
-      "size": 2211328,
-      "sha256": "45b4d23de3eba39dea02738821aff3c9ce2da221eaf594c5883d3129c319d899",
+      "size": 2054720,
+      "sha256": "cc277f9d92c404d0089064f6811c41dd223d0b8c7512d724c53b2095647dba10",
       "update": true
     }
   ]
