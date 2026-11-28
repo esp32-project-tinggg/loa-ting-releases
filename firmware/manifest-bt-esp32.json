@@ -1,0 +1,40 @@
+{
+  "name": "Ting BT",
+  "family": "bt",
+  "variant": "bridge",
+  "version": "0.4.1",
+  "board": "esp32",
+  "available": true,
+  "chip": "ESP32",
+  "flash_size": "4MB",
+  "parts": [
+    {
+      "file": "0.4.1-bt/bootloader.bin",
+      "address": "0x1000",
+      "size": 26176,
+      "sha256": "bd0768e6aedfb2fd9bb26b28002a4ed661f53fce79ad26f01c8fc503cb7707f4",
+      "update": false
+    },
+    {
+      "file": "0.4.1-bt/partition-table.bin",
+      "address": "0x8000",
+      "size": 3072,
+      "sha256": "34e04cbdd359dc4d3cfc3b0237762da1d3a0d8cf8aa729280eecfbaae9fb9ddb",
+      "update": true
+    },
+    {
+      "file": "0.4.1-bt/ota_data_initial.bin",
+      "address": "0xd000",
+      "size": 8192,
+      "sha256": "7d2c7ac4888bfd75cd5f56e8d61f69595121183afc81556c876732fd3782c62f",
+      "update": true
+    },
+    {
+      "file": "0.4.1-bt/app.bin",
+      "address": "0x10000",
+      "size": 1342752,
+      "sha256": "a8a90c5e0dbd38762a5ba85af65656dc535772d94db6aa243e694ad96d936205",
+      "update": true
+    }
+  ]
+}
